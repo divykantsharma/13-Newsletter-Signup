@@ -1,6 +1,6 @@
 # 13-Newsletter-Signup
 THIS WEBSITE IS UNDER PROGRESS -> It's not complete like it's working perfectly fine on localhost:3000 but deplyoing it on heroku is still left. 
-Made this NewsLetter signup with the help of JavaScript ,  using Express framework in Node.js 
+Made this NewsLetter signup with the help of JavaScript , using Express framework in Node.js 
 
 -> What is MailChimp ??
 1. Mailchimp offers integrations with various platforms and applications, allowing users to connect their email marketing efforts with other tools they use. It also provides APIs for developers to interact with Mailchimp programmatically and build custom integrations.
